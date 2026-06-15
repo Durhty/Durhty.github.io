@@ -1,0 +1,30 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(ACbase2.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(ACtriggers2.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(ACbumper2.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(ACstart2.png);
+}
+
+.ds4.white .button {
+    background-image: url(ACface2.png);
+}
+
+.ds4.white .stick {
+    background-image: url(ACsticks2.png);
+}
+
+.ds4.white .face {
+    background-image: url(ACdpad2.png);
+}
+
+/*END PS4 White Controller Styling*/
